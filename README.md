@@ -1,10 +1,9 @@
-# MarkDownBasic   // <h1>heading  # hash sign represent the heading and its count represent the size of heading 
-##Hello to Markdown    // <h2> heading
-It my first repo and writing a markdown.   //<p> paragraph one and two space represent the paragraph 
+# MarkDownBasic   
+##Hello to Markdown
+It my first repo and writing a markdown.  
 for best Practice
 
-> MarkDown is best to convert in valid html // > less than sign represent the blockqoutes
-
+> MarkDown is best to convert in valid html
 *It is __easy-to-read__ and write* 
  * Item1
  * Item2
